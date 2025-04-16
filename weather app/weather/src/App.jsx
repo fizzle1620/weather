@@ -1,10 +1,10 @@
 import React from 'react';
-
+import Weather from './weatherFolder/Weather';
 
 const App =()=>{
   return(
-    <div>
-      <div className='app'>hello</div>
+    <div className='app'>
+      <Weather/>
 
     </div>
   )
