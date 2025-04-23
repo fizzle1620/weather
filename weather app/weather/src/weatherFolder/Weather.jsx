@@ -32,7 +32,7 @@ const Weather=()=>{
             <div className="col">
                 <img src={wind_icon} alt="" />
                 <div>
-                    <p>3.5 km/h</p>
+                    <p>3.4 km/h</p>
                     <span>Wind Speed</span>
                 </div>
             </div>
