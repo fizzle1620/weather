@@ -25,7 +25,7 @@ const Weather=()=>{
             <div className="col">
                 <img src={humidity_icon} alt="" />
                 <div>
-                    <p>87 %</p>
+                    <p>86 %</p>
                     <span>Humidity</span>
                 </div>
             </div>
